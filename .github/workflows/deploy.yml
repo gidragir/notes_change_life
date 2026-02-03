@@ -24,12 +24,12 @@ jobs:
           version: 9
 
       - name: Install dependencies
-        run: |
-          pnpm install
-          touch dist/.nojekyll
+        run: pnpm install
 
       - name: Build
-        run: pnpm run build
+        run: |
+          pnpm run build
+          touch dist/.nojekyll
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
