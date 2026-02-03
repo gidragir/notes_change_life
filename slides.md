@@ -23,6 +23,10 @@ mdc: true
 </div>
 
 ---
+src: ./pages/about_me.md
+---
+
+---
 src: ./pages/main_problem.md
 ---
 
