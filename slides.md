@@ -3,7 +3,7 @@ theme: seriph
 title: Как правильное ведение заметок меняет жизнь
 info: |
   ## Knowledge Management Slides
-transition: slide-left
+transition: fade
 mdc: true
 ---
 
@@ -11,12 +11,12 @@ mdc: true
 
 <div class="relative w-80 h-80 mx-auto mt-8">
   <img
-    v-click-hide
+    v-click-hide="1"
     src="/rickrol.png"
     class="absolute top-0 left-0 w-full h-full object-contain transition-opacity duration-500"
   />
   <img
-    v-click
+    v-click="1"
     src="/presentaion.png"
     class="absolute top-0 left-0 w-full h-full object-contain transition-opacity duration-500"
   />
@@ -52,6 +52,10 @@ src: ./pages/methodologies.md
 
 ---
 src: ./pages/para.md
+---
+
+---
+src: ./pages/para_use.md
 ---
 
 ---

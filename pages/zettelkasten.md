@@ -1,4 +1,6 @@
 ---
+layout: two-cols
+layoutClass: gap-16
 ---
 
 # Zettelkasten / ZETA (Network of Thought)
