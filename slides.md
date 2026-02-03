@@ -1,81 +1,95 @@
 ---
 theme: seriph
-title: Knowledge Management
+title: Как правильное ведение заметок меняет жизнь
 info: |
   ## Knowledge Management Slides
 transition: slide-left
 mdc: true
 ---
 
+# Как правильное ведение заметок меняет жизнь
+
+<div class="relative w-80 h-80 mx-auto mt-8">
+  <img
+    v-click-hide
+    src="/rickrol.png"
+    class="absolute top-0 left-0 w-full h-full object-contain transition-opacity duration-500"
+  />
+  <img
+    v-click
+    src="/presentaion.png"
+    class="absolute top-0 left-0 w-full h-full object-contain transition-opacity duration-500"
+  />
+</div>
+
 ---
-src: ./pages/01_main_problem.md
+src: ./pages/main_problem.md
 ---
 
 ---
-src: ./pages/02_gpd_0.md
+src: ./pages/gpd_0.md
 ---
 
 ---
-src: ./pages/03_brain_oxygen.md
+src: ./pages/brain_oxygen.md
 ---
 
 ---
-src: ./pages/04_importance.md
+src: ./pages/importance.md
 ---
 
 ---
-src: ./pages/05_wrong_usage.md
----
-
-
----
-src: ./pages/06_methodologies.md
+src: ./pages/wrong_usage.md
 ---
 
 ---
-src: ./pages/07_para.md
+src: ./pages/methodologies.md
 ---
 
 ---
-src: ./pages/08_zettelkasten.md
+src: ./pages/para.md
 ---
 
 ---
-src: ./pages/09_digital_garden.md
+src: ./pages/zettelkasten.md
 ---
 
 ---
-src: ./pages/09_quote.md
+src: ./pages/digital_garden.md
 ---
 
 ---
-src: ./pages/10_instruments.md
+src: ./pages/quote.md
 ---
 
 ---
-src: ./pages/11_obsidian.md
+src: ./pages/instruments.md
 ---
 
 ---
-src: ./pages/12_personal_experience.md
+src: ./pages/obsidian.md
 ---
 
 ---
-src: ./pages/13_personal_content.md
+src: ./pages/personal_experience.md
 ---
 
 ---
-src: ./pages/14_recursion.md
+src: ./pages/personal_content.md
 ---
 
 ---
-src: ./pages/15_recursion_content.md
+src: ./pages/recursion.md
 ---
 
 ---
-src: ./pages/16_lifehacks.md
+src: ./pages/recursion_content.md
 ---
 
 ---
-src: ./pages/17_lifehacks_content.md
+src: ./pages/lifehacks.md
+---
+
+---
+src: ./pages/lifehacks_content.md
 ---
