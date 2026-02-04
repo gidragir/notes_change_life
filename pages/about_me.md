@@ -1,5 +1,5 @@
 ---
-layout: center
+layout: cover
 ---
 
 # Обо мне
