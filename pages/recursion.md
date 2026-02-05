@@ -1,7 +1,8 @@
 ---
-layout: center
+layout: image
+image: ./presentaion_graph.png.png
+transition: slide-up
+backgroundSize: contain
 ---
 
 # Рекурсия
-
-Показать аудитории, что весь доклад это буквально связи и что весь мой доклад был построен на том, чтобы создать связи у каждого в голове

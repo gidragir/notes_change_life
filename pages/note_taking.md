@@ -8,3 +8,5 @@ transition: slide-up
 ---
 src: ./importance_note_taking.md
 ---
+
+[[methodologies]]

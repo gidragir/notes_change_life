@@ -1,9 +1,15 @@
 ---
 layout: center
+transition: slide-left
 ---
 
 # Основная проблема текущего времени
+
+<v-clicks>
+
 ## Слишком много информации
+
+</v-clicks>
 
 <v-clicks>
 
@@ -24,3 +30,5 @@ layout: center
 </div>
 
 </v-clicks>
+
+[[para.md]]

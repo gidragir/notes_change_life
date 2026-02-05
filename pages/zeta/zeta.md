@@ -22,9 +22,7 @@ transition: slide-up
 
 ---
 src: ./zeta_use.md
-transition: slide-up
+transition: slide-left
 ---
 
----
-src: ./zeta_example.md
----
+[[zeta_use]]

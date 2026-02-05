@@ -24,5 +24,7 @@ transition: slide-up
 
 ---
 src: ./digital_garden_use.md
-transition: slide-up
+transition: fade
 ---
+
+[[digital_garden_use]]

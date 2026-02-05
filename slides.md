@@ -43,10 +43,6 @@ src: ./pages/wrong_usage.md
 ---
 
 ---
-src: ./pages/importance.md
----
-
----
 src: ./pages/methodologies.md
 ---
 
@@ -83,13 +79,23 @@ src: ./pages/own_use_keys.md
 ---
 
 ---
+src: ./pages/lifehacks.md
+---
+
+---
 src: ./pages/recursion.md
 ---
 
 ---
-src: ./pages/lifehacks.md
+src: ./pages/links.md
 ---
 
 ---
 layout: end
 ---
+
+<style>
+  .slidev-layout {
+  @apply text-xl leading-none !important;
+}
+</style>

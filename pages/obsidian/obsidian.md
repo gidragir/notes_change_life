@@ -5,9 +5,6 @@ transition: slide-up
 
 # Obisidian
 
-1. Web clipper
-2. Zotero
-
 ---
 src: ./obsidian_notes.md
 transition: slide-up
@@ -26,3 +23,14 @@ transition: slide-up
 ---
 src: ./obsidian_canvas.md
 ---
+
+---
+src: ./obsidian_ins.md
+---
+
+[[obsidian_ins]]
+[[obsidian_notes]]
+[[obsidian_graph]]
+[[obsidian_bases]]
+[[obsidian_canvas]]
+[[links]]

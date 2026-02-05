@@ -1,6 +1,7 @@
 ---
 layout: two-cols
 layoutClass: gap-16
+transition: slide-left
 ---
 
 # Обо мне

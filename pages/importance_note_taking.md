@@ -5,5 +5,6 @@ transition: slide-up
 title: Важность заметок
 backgroundSize: contain
 ---
-
+[[note_taking]]
+[[wrong_usage]]
 

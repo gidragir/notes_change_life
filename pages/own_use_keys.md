@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: center
 ---
 
 # Как я веду свои заметки
@@ -50,3 +50,8 @@ layout: default
 </div>
 
 </div>
+
+[[obsidian]]
+[[zeta]]
+[[para]]
+[[digital_garden]]

@@ -23,5 +23,7 @@ transition: slide-up
 
 ---
 src: ./para_use.md
-transition: slide-up
+transition: slide-left
 ---
+
+[[para_use]]
