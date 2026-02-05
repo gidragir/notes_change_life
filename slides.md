@@ -23,10 +23,6 @@ mdc: true
 </div>
 
 ---
-src: ./pages/own_use_keys.md
----
-
----
 src: ./pages/about_me.md
 ---
 
@@ -35,19 +31,19 @@ src: ./pages/main_problem.md
 ---
 
 ---
-src: ./pages/gpd_0.md
----
-
----
 src: ./pages/brain_oxygen.md
 ---
 
 ---
-src: ./pages/importance.md
+src: ./pages/note_taking.md
 ---
 
 ---
 src: ./pages/wrong_usage.md
+---
+
+---
+src: ./pages/importance.md
 ---
 
 ---
@@ -80,6 +76,10 @@ src: ./pages/note_soft/heptabase.md
 
 ---
 src: ./pages/obsidian/obsidian.md
+---
+
+---
+src: ./pages/own_use_keys.md
 ---
 
 ---

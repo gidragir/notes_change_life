@@ -1,5 +1,6 @@
 ---
-layout: cover
+layout: two-cols
+layoutClass: gap-16
 ---
 
 # Обо мне
@@ -10,3 +11,16 @@ layout: cover
 - DevOps, Typescript и Rust
 
 </v-clicks>
+
+::right::
+
+<img
+    v-click="1"
+    src="/me_qr.png"
+    class=""
+  />
+
+<style>
+div.w-full.h-full {
+}
+</style>
