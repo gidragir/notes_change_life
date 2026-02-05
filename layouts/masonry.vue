@@ -8,7 +8,7 @@
       <img
         v-for="(img, idx) in images"
         :key="img"
-        :src="img"
+        :src="'/notes_change_life/' + img"
         :class="{ expanded: $clicks === idx + 1 }"
         :alt="'Gallery Image ' + (idx + 1)"
       />
